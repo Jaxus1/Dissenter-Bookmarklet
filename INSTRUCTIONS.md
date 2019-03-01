@@ -5,6 +5,7 @@ To use this bookmarklet, simply follow instructions for your browser:
 
 Google Chrome, Firefox, and some other Chromium based browsers: Copy the code and drag it into your bookmarks bar. 
 Make sure the bookmarks bar is visible on your browser. Then, Change the name to something like "Dissenter" if you want. 
+Edit: If you are using Google Chrome on linux, you may have to follow the Opera instructions (except the 'heart' is instead a star)
 
 Opera instructions: Go to any website, and click the heart on the far right of the URL bar to "add to bookmarks", and select "bookmarks bar", then, on the bookmarks bar, right click > edit the bookmark you just added, and replace the Address with the bookmarklet code, and the name to whatever you'd like. 
 
