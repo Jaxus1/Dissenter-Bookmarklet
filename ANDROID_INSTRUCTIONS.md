@@ -1,5 +1,5 @@
 # Dissenter-Bookmarklet
-You must be logged in to the site comment and rate. Due to a recent update to Dissenter, it now no longer redirects to the home page if you aren't logged in. Thanks Torba!
+You must be logged in to the site comment and rate. Due to a recent update to Dissenter, it now no longer redirects to the home page if you aren't logged in, and allows you to use this bookmarklet without an account. Thanks Torba!
 
 Here are instructions on how to use dissenter easily on android:
 
