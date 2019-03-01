@@ -1,6 +1,7 @@
 # Dissenter-Bookmarklet
-MAKE SURE YOU ARE LOGGED INTO DISSENTER ON YOUR ANDROID BROWSER, OTHERWISE IT WILL NOT WORK
-Here are instructions on how to use dissenter easily on android
+You must be logged in to the site comment and rate. Due to a recent update to Dissenter, it now no longer redirects to the home page if you aren't logged in. Thanks Torba!
+
+Here are instructions on how to use dissenter easily on android:
 
 CODE: javascript:(function(){window.location=('https://dissenter.com/discussion/begin?url='+location+'')})();
 
