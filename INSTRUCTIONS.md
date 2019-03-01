@@ -9,4 +9,4 @@ Edit: If you are using Google Chrome on linux, you may have to follow the Opera 
 
 Opera instructions: Go to any website, and click the heart on the far right of the URL bar to "add to bookmarks", and select "bookmarks bar", then, on the bookmarks bar, right click > edit the bookmark you just added, and replace the Address with the bookmarklet code, and the name to whatever you'd like. 
 
-After you add it to your bookmarks bar, make sure you're logged in on https://dissenter.com or it wont work at all.
+After you add it to your bookmarks bar, make sure you're logged in on https://dissenter.com or you won't be able to comment or rate the posts, however you'll still be able to see the comments, due to a new update to Dissenter.
