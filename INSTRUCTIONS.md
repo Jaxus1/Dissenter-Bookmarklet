@@ -11,12 +11,16 @@ Opera instructions: Go to any website, and click the heart on the far right of t
 
 After you add it to your bookmarks bar, make sure you're logged in on https://dissenter.com or you won't be able to comment or rate the posts, however you'll still be able to see the comments, due to a new update to Dissenter.
 
-Vivaldi - Adding soon
+Vivaldi - Make sure the bookmarks bar is enabled, (Ctrl+Shift+B), then go to any webpage, click the "add bookmark" button on the URL bar to the right. Change the URL to the bookmarklet code, and the name to whatever you'd like.
 
 Waterfox - Adding soon
 
 Seamonkey - Adding soon
 
 Pale Moon - Adding soon
+
+Brave Browser - Adding soon
+
+Konqueror - Adding Soon
 
 Microsoft Edge: Unfortunately, Microsoft Edge, (The worst browser in existence following internet explorer) has no support for extensions or bookmarklets, so you're out of luck, or you can try finding a tutorial online, but those aren't guaranteed to work, and when i looked at one, it had several steps you had to go through, and its more worth just getting a better browser. 
