@@ -17,3 +17,7 @@ Make sure its on the bookmarks bar and the bookmarks bar is enabled.
 
 Vivaldi - Adding soon
 Waterfox - Adding soon
+Seamonkey - Adding soon
+Pale Moon - Adding soon
+
+Microsoft Edge: Unfortunately, Microsoft Edge, (The worst browser in existence following internet explorer) has no support for extensions or bookmarklets, so you're out of luck, or you can try finding a tutorial online, but those aren't guaranteed to work, and when i looked at one, it had several steps you had to go through, and its more worth just getting a better browser. 
