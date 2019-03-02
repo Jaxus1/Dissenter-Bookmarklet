@@ -14,3 +14,6 @@ After you add it to your bookmarks bar, make sure you're logged in on https://di
 OTHER BROWSERS: since i cant be bothwred to download and test every browser, below is basic instructions for all browsers:
 Make a bookmark with the URL field set as the code. Some browsers allow you to modify it when you make the bookmark, but sometimes you have to make a bookmark, and then right click  >  edit.
 Make sure its on the bookmarks bar and the bookmarks bar is enabled.
+
+Vivaldi - Adding soon
+Waterfox - Adding soon
