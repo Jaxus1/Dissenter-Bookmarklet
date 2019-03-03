@@ -29,6 +29,8 @@ I did not even try with UC browser because its so shitty and laggy (lagging on m
 
 Bookmarklets currently do not work with DuckDuckGo browser.
 
+Bookmarklets currently do not work with Puffin browser.
+
 Bookmarklets currently do not work Maxthon browser.
 
 Bookmarklets currently do not work with Firefox Focus, as it doesn't have the option to add bookmarks.
