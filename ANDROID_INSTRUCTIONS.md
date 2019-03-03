@@ -39,4 +39,4 @@ Unsupported browsers: PHX browser, DuckDuckGo, Puffin, Cm browser, Maxthon, 'Fir
 
 I did not even try with UC browser because its so shitty and laggy (lagging on my 300 dollar phone, lol), i uninstalled it almost instantly. If you seriously like UC browser, i feel sympathy for your loss. I highly recommend you switch to a less shitty browser.
 
-More instructions for other browsers coming soon. I'm trying my best to cover all of them (The ones that are over 500k+ downloads). There are a lot of them. If your browser isn't listed here, i suggest switching.
+More instructions for other browsers coming soon. I'm trying my best to cover all of them so that i can find the unsupported browsers. There are a lot of browsers to sift through. If your browser isn't listed here, or is unsupported i suggest switching.
