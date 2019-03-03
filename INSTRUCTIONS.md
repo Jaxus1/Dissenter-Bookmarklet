@@ -26,3 +26,5 @@ Bookmarklets are not supported on Microsoft Edge.
 Bookmarklets are not supported on Waterfox.
 
 Bookmarklets are not supported on Konqueror.
+
+Bookmarklets are not supported on qute browser.
