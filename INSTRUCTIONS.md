@@ -17,6 +17,8 @@ Pale Moon - Make sure the bookmarks bar is enabled, then rightclick the bookmark
 
 Brave Browser - Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and right click the bookmarks bar, then click "paste". If you want to change the name of the bookmark, right click it and click edit.
 
+Yandex (russian bot) Browser - Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and right click the bookmarks bar, then click "paste". If you want to change the name of the bookmark, right click it and click edit.
+
 After you add it to your bookmarks bar, make sure you're logged in on https://dissenter.com or you won't be able to comment or rate the posts, however you'll still be able to see the comments, due to a new update to Dissenter. To use a bookmarklet, you must click the bookmark. Thats how bookmarks work.
 
 Bookmarklets are not supported on Microsoft Edge.
