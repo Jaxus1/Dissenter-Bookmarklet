@@ -1,4 +1,4 @@
 #Credits to @Mumberthrax on Gab
-#This bookmarklet opens Dissenter inside the webpage, which allows you to use dissenter while browsing the webpage. May be buggy on other browsers, and probably doesn't work on android
+#This bookmarklet opens Dissenter inside the webpage in an iframe, which allows you to use dissenter while browsing the webpage. May be buggy on other browsers, and probably doesn't work on android
 
 javascript:(function(){var%20iframe=document.createElement('iframe');iframe.src='https://dissenter.com/discussion/begin?url='+encodeURIComponent(location.href);iframe.style.width="25%";iframe.style.height=window.innerHeight+'px';iframe.style.top="0";iframe.style.right="0";iframe.style.position="fixed";iframe.style.zIndex="9999";document.body.appendChild(iframe)})(); 
