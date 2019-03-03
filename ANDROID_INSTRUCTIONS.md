@@ -23,20 +23,9 @@ Yandex Browser > Copy the code, then go to any website, tap the menu (⋮), then
 
 Dolphin Browser > Copy the code, then go to any website, tap the Star icon next to the URL bar, then at the bottom, tap "Add Bookmark". Now is a convenient time to change the name. Then, tap the star icon again, and long-press the bookmark you just added, tap "Edit bookmark", and change the URL to the code, and the name if you havent already. Then, if you want to, you can assign a gesture to the bookmark to make it even EASIER to use dissenter. To use dissenter, simply tap the star icon next to the url bar, and tap the bookmarklet. OR, if you have the gesture assigned, do the gesture instead.
 
-Bookmarklets currently do not work with PHX browser
 
-I did not even try with UC browser because its so shitty and laggy (lagging on my 300 dollar phone, lol), i uninstalled it almost instantly.
+Unsupported browsers: PHX browser, DuckDuckGo, Puffin, Cm browser, Maxthon, 'Firefox Focus', Cake browser,'Opera Touch'. 
 
-Bookmarklets currently do not work with DuckDuckGo browser.
-
-Bookmarklets currently do not work with Puffin browser.
-
-Bookmarklets currently do not work Maxthon browser.
-
-Bookmarklets currently do not work with Firefox Focus, as it doesn't have the option to add bookmarks.
-
-You can't add bookmarklets to Cake browser, due to the inability of editing the bookmark URL.
-
-You can't add bookmarklets to "Opera Touch", as Opera Touch doesn't have bookmarks.
+I did not even try with UC browser because its so shitty and laggy (lagging on my 300 dollar phone, lol), i uninstalled it almost instantly. If you seriously like UC browser, i feel sympathy for your loss. I highly recommend you switch to a less shitty browser.
 
 More instructions for other browsers coming soon... The instructions should be similar to the ones above, though.
