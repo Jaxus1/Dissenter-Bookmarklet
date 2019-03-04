@@ -107,6 +107,14 @@ Make sure the favorites bar is enabled. This can be done by right clicking on th
 </p>
 </details>
 
+<details><summary>Falkon Browser</summary>
+<p>
+
+#### Falkon Browser
+Make sure the bookmarks bar is enabled. Go to any webpage, then click the start button, and click "Add to bookmarks" Then right click the bookmark you just made, click edit, and paste the code in "Adress" and change the title if you want to.
+
+</p>
+</details>
 
 <details><summary>Browsers that do not work</summary>
 <p>
