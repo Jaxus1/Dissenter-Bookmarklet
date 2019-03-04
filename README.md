@@ -8,7 +8,7 @@ To add this bookmarklet, select your browser and follow the instructions. After 
   
 #### Google Chrome and Firefox
   
-Copy the code and drag it into your bookmarks bar. Make sure the bookmarks bar is visible on your browser. Then, Change the name to something like "Dissenter" if you want. 
+Select the code and drag it into your bookmarks bar. Make sure the bookmarks bar is visible on your browser. If you want, you can change the name of the Bookmarklet.
 
 If you are using Google Chrome on linux, you may have to follow the Opera instructions (except the 'heart' is instead a star)
 </p>
@@ -20,7 +20,7 @@ If you are using Google Chrome on linux, you may have to follow the Opera instru
   
 #### Opera 
   
-Go to any website, and click the heart on the far right of the URL bar to "add to bookmarks", and select "bookmarks bar", then, on the bookmarks bar, right click > edit the bookmark you just added, and replace the Address with the bookmarklet code, and the name to whatever you'd like. 
+Go to any website, and click the heart to the right of the URL bar to "add to bookmarks", and select "bookmarks bar", then, on the bookmarks bar, right click > edit the bookmark you just added, and replace the Address with the bookmarklet code, and the name to whatever you'd like. 
 </p>
 </details>
 
@@ -30,7 +30,7 @@ Go to any website, and click the heart on the far right of the URL bar to "add t
   
 #### Vivaldi
   
-Make sure the bookmarks bar is enabled, (Ctrl+Shift+B), then go to any webpage, click the "add bookmark" button on the URL bar to the right. Change the URL to the bookmarklet code, and the name to whatever you'd like.
+Make sure the bookmarks bar is enabled, (Ctrl+Shift+B to enable), then go to any webpage, click the "add bookmark" button on the URL bar to the right. Change the URL to the bookmarklet code, and the name to whatever you'd like.
 </p>
 </details>
 
