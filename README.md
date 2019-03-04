@@ -74,16 +74,18 @@ Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and 
 </p>
 </details>
 
+<details><summary>Unsupported Browsers</summary>
+<p>
+  
+#### Unsupported Browsers
+
+Microsoft Edge, Waterfox, Konqueror, and qute browser.
+
+</p>
+</details>
+
 ---
 
 After you add it to your bookmarks bar, make sure you're logged in on https://dissenter.com or you won't be able to comment or rate the posts, however you'll still be able to see the comments, due to a new update to Dissenter. To use a bookmarklet, you must click the bookmark. Thats how bookmarks work.
 
 Currently fixing instructions for Mozilla Firefox. At the moment, they are under "Google Chrome"
-
-Bookmarklets are not supported on Microsoft Edge.
-
-Bookmarklets are not supported on Waterfox.
-
-Bookmarklets are not supported on Konqueror.
-
-Bookmarklets are not supported on qute browser.
