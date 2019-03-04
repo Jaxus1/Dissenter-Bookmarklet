@@ -1,7 +1,7 @@
 # Dissenter-Bookmarklet-Instructions
 A simple bookmarklet for Dissenter.com that allows you to comment on any web page on the internet.
 
-To use this bookmarklet, simply select your browser, and follow the instructions.
+To use this bookmarklet, select your browser and follow the instructions.
 
 <details><summary>Google Chrome</summary>
 <p>
@@ -82,6 +82,46 @@ Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and 
 Microsoft Edge, Waterfox, Konqueror, and qute browser.
 
 </p>
+</details>
+
+---
+
+## The code
+
+<details><summary>Open dissenter in the same window</summary>
+<p>
+  
+ #### This opens dissenter in the same window. Reccommended for Android.
+ 
+ ```Javascript
+ javascript:(function(){window.location=('https://dissenter.com/discussion/begin?url='+location+'')})(); 
+ ```
+ 
+ </p>
+</details>
+
+<details><summary>Open dissenter in a new tab</summary>
+<p>
+  
+  #### This opens dissenter in a new tab. Works on android, but could be inconvenient based on your browser.
+  
+ ```javascript
+  javascript:(function(){window.open('https://dissenter.com/discussion/begin?url='+location+'')})();
+ ```
+ 
+ </p>
+</details>
+
+<details><summary>Open dissenter inside the webpage</summary>
+<p>
+ 
+ #### This opens dissenter inside the webpage, mimicing a real comments section on a real site. Not recommended for Android. Credits to @Mumberthrax on Gab for this script. Click the bookmarklet to toggle it on/off
+ 
+ ```javascript
+ javascript:(function(){var frame=document.getElementById("ifrm");if(frame!==null){frame.parentNode.removeChild(frame)}else{var iframe=document.createElement('iframe');iframe.src='https://dissenter.com/discussion/begin?url='+encodeURIComponent(location.href);iframe.style.width="25%";iframe.style.height=window.innerHeight+'px';iframe.style.top="0";iframe.style.right="0";iframe.style.position="fixed";iframe.style.zIndex="9999";iframe.setAttribute('id','ifrm');document.body.appendChild(iframe)}})();
+ ```
+ 
+ </p>
 </details>
 
 ---
