@@ -8,9 +8,9 @@ To use this bookmarklet, select your browser and follow the instructions.
   
 #### Google Chrome and Firefox
   
-Google Chrome, Firefox, and some other Chromium based browsers: Copy the code and drag it into your bookmarks bar. 
-Make sure the bookmarks bar is visible on your browser. Then, Change the name to something like "Dissenter" if you want. 
-Edit: If you are using Google Chrome on linux, you may have to follow the Opera instructions (except the 'heart' is instead a star)
+Copy the code and drag it into your bookmarks bar. Make sure the bookmarks bar is visible on your browser. Then, Change the name to something like "Dissenter" if you want. 
+
+If you are using Google Chrome on linux, you may have to follow the Opera instructions (except the 'heart' is instead a star)
 </p>
 </details>
 
@@ -30,7 +30,7 @@ Go to any website, and click the heart on the far right of the URL bar to "add t
   
 #### Vivaldi
   
-Vivaldi - Make sure the bookmarks bar is enabled, (Ctrl+Shift+B), then go to any webpage, click the "add bookmark" button on the URL bar to the right. Change the URL to the bookmarklet code, and the name to whatever you'd like.
+Make sure the bookmarks bar is enabled, (Ctrl+Shift+B), then go to any webpage, click the "add bookmark" button on the URL bar to the right. Change the URL to the bookmarklet code, and the name to whatever you'd like.
 </p>
 </details>
 
@@ -40,7 +40,7 @@ Vivaldi - Make sure the bookmarks bar is enabled, (Ctrl+Shift+B), then go to any
   
 #### Seamonkey
   
-Seamonkey - Make sure the bookmarks bar is enabled, then right click the bookmarks bar > New Bookmark... then add the code in "Location", and change the name to whatever you want.
+Make sure the bookmarks bar is enabled, then right click the bookmarks bar > New Bookmark... then add the code in "Location", and change the name to whatever you want.
 </p>
 </details>
 
@@ -60,7 +60,7 @@ Make sure the bookmarks bar is enabled, then right click the bookmarks bar > New
   
 #### Brave Browser
   
-Brave Browser - Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and right click the bookmarks bar, then click "paste". If you want to change the name of the bookmark, right click it and click edit.
+Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and right click the bookmarks bar, then click "paste". If you want to change the name of the bookmark, right click it and click edit.
 </p>
 </details>
   
