@@ -12,42 +12,42 @@ Edit: If you are using Google Chrome on linux, you may have to follow the Opera 
 </details>
 
 
-<details><summary>Opera/summary>
+<details><summary>Opera</summary>
 <p>
 Opera instructions: Go to any website, and click the heart on the far right of the URL bar to "add to bookmarks", and select "bookmarks bar", then, on the bookmarks bar, right click > edit the bookmark you just added, and replace the Address with the bookmarklet code, and the name to whatever you'd like. 
 </p>
 </details>
 
 
-<details><summary>Vivaldi/summary>
+<details><summary>Vivaldi</summary>
 <p>
 Vivaldi - Make sure the bookmarks bar is enabled, (Ctrl+Shift+B), then go to any webpage, click the "add bookmark" button on the URL bar to the right. Change the URL to the bookmarklet code, and the name to whatever you'd like.
 </p>
 </details>
 
 
-<details><summary>Seamonkey/summary>
+<details><summary>Seamonkey</summary>
 <p>
 Seamonkey - Make sure the bookmarks bar is enabled, then right click the bookmarks bar > New Bookmark... then add the code in "Location", and change the name to whatever you want.
 </p>
 </details>
 
 
-<details><summary>Pale Moon/summary>
+<details><summary>Pale Moon</summary>
 <p>
 Pale Moon - Make sure the bookmarks bar is enabled, then right click the bookmarks bar > New Bookmark... then add the code in "Location", and change the name to whatever you want.
 </p>
 </details>
   
 
-<details><summary>Brave Browser/summary>
+<details><summary>Brave Browser</summary>
 <p>
 Brave Browser - Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and right click the bookmarks bar, then click "paste". If you want to change the name of the bookmark, right click it and click edit.
 </p>
 </details>
   
 
-<details><summary>Yandex Browser/summary>
+<details><summary>Yandex Browser</summary>
 <p>
 Yandex (russian bot) Browser - Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and right click the bookmarks bar, then click "paste". If you want to change the name of the bookmark, right click it and click edit.
 </p>
