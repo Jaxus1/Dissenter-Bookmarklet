@@ -89,6 +89,196 @@ Microsoft Edge, Waterfox, Konqueror, and qute browser.
 
 ---
 
+## Android Instructions
+
+#### Instructions on how to add Dissenter to Android.
+
+#### (Warning: some of the URLs are showed different on some browsers, and as such, some URLs will load on dissenter to the wrong page. Some notable examples are: google.com, news.google.com, m.facebook, etc.)
+
+<details><summary>Google Chrome</summary>
+<p>
+  
+  #### Google Chrome
+  
+  Copy the code to your clipboard, then go to to any site, tap the 3 ⋮ (the menu) and click the star at the top of the menu, then, if you're quick enough, tap on "edit" from the prompt that appears when adding the bookmark, or navigate to the bookmarks settings by going to ⋮ > Bookmarks, then long press on the bookmark you just added and tap the pencil icon at the top menu. Afterwards, change the URL to the code, and (Highly recommended) change the name to something like "Dissenter". To use the bookmarklet, when you are on a web page you want to open in dissenter, type the bookmark name into the URL bar and tap the bookmark in the suggested URL list.
+  
+</p>
+</details>
+
+
+<details><summary>Firefox & Firefox Nightly</summary>
+<p>
+  
+  #### Firefox
+  
+  Copy the code to your clipboard, then go to to any site, tap the 3 ⋮ (the menu) and click the star at the top of the menu, then, if you're quick enough, tap on "options" from the prompt that appears when adding the bookmark, or navigate to the bookmarks settings by going to ⋮ > Bookmarks, then long press on the bookmark you just added and tap "Edit" in the dropdown menu. Afterwards, change the location to the code, and (Highly recommended) change the name to something like "Dissenter". To use the bookmarklet, tap the URL bar, click on the BOOKMARKS tab, and tap the Dissenter bookmark
+  
+</p>
+</details>
+
+
+<details><summary>Samsung Internet Browser</summary>
+<p>
+  
+  #### Samsung Internet Browser
+  
+  Copy the code, then go to any site. Tap the menu at the top right (⋮), then tap "add to bookmarks". Change the url to the code, then change the name (Highly recommended), to something you'll remember, like "Dissenter". To use the bookmarklet, tap the bookmarks icon at the bottom, then select the Dissenter bookmarklet you added or, alternatively, you could type the dissenter name into the URL bar, and tap the bookmarklet from the dropdown list.
+  
+</p>
+</details>
+
+
+<details><summary>Opera</summary>
+<p>
+  
+  #### Opera
+  
+  Copy the code, and then, on any webpage, tap the ⋮ (3 dots indicating the menu), and click (add to) "Bookmarks" in the menu. Paste the code into the Address section, and (highly recommended) make a name such as Dissent or Dissenter. To use the bookmarklet, when you are on a web page you want to open in dissenter, type the bookmark name into the URL bar and tap the bookmark in the suggested url list.
+  
+</p>
+</details>
+
+
+<details><summary>Brave Browser</summary>
+<p>
+  
+  #### Brave Browser
+  
+  Copy the code, then, on any webpage, tap the menu (⋮), and tap the bookmark button at the top (The ribbon), then, either tap "Edit" quickly at the bottom, or go back to the menu, and tap the bookmark button again, to bring you to the edit popup. Then, change the URL to the bookmarklet code, and (highly recommended) change the name to something you'll remember. To use the bookmarklet, tap the URL bar, type the bookmark name in, and then tap the bookmark in the suggested URL list.
+
+
+  
+</p>
+</details>
+
+
+<details><summary>Nox Browser</summary>
+<p>
+  
+  #### Nox Browser
+  
+  Copy the code, then go to to any site, tap the 3 ⋮ (the menu) and click the star at the top of the menu, then, if you're quick enough, tap on "options" from the prompt that appears when adding the bookmark, or navigate to the bookmarks settings by going to ⋮ > Bookmarks, then long press on the bookmark you just added and tap "Edit" in the dropdown menu. Afterwards, change the location to the code, and (Highly recommended) change the name to something like "Dissenter". To use the bookmarklet, tap the URL bar, type the bookmark name in, and tap the bookmark in the suggested URL list.
+
+
+  
+</p>
+</details>
+
+
+<details><summary>Lightning Browser</summary>
+<p>
+  
+  #### Lightning Browser
+  
+  Copy the code, then go to any website, tap the menu (⋮), then tap "add bookmark". Afterwards, go back to the menu (⋮), then tap "Bookmarks", and long press on the bookmark you just made, and tap "Edit Bookmark". Then, change the URL to the code, and (highly reccommended) change the name to something you'll remember. To use the bookmarklet, tap the menu (⋮), then tap "Bookmarks", then tap the Dissenter bookmarklet in the list.
+  
+</p>
+</details>
+
+
+<details><summary>Yandex Browser</summary>
+<p>
+  
+  #### Yandex Browser
+  
+  Copy the code, then go to any website, tap the menu (⋮), then tap "add to bookmarks". Then go back to that menu, tap "Edit Bookmark", and change the adress to the code and (Highly recommended) change the name to something like "Dissenter". To use the bookmarklet, tap the URL bar, type the bookmark name in, and tap the bookmark in the suggested URL list.
+  
+</p>
+</details>
+
+<details><summary>Dolphin Browser</summary>
+<p>
+  
+  #### Dolphin Browser
+  
+  Copy the code, then go to any website, tap the Star icon next to the URL bar, then at the bottom, tap "Add Bookmark". Now is a convenient time to change the name. Then, tap the star icon again, and long-press the bookmark you just added, tap "Edit bookmark", and change the URL to the code, and the name if you havent already. Then, if you want to, you can assign a gesture to the bookmark to make it even EASIER to use dissenter. To use dissenter, simply tap the star icon next to the url bar, and tap the bookmarklet. OR, if you have the gesture assigned, do the gesture instead.
+  
+</p>
+</details>
+
+
+<details><summary>Microsoft Edge</summary>
+<p>
+  
+  #### Microsoft Edge
+  
+  Copy the code, go to any website, then tap the star/menu button at the top right, tap "Add current page to Favorites", then tap the ⋮ next to the bookmark that was just made, then tap "Edit". Change the URL to the Bookmarklet code, and add a name if you want. To use it, type the bookmarklet name into the URL bar and tap the bookmarklet from the dropdown list. (Tapping the menu and tapping the bookmarklet DOES NOT WORK, unfortunately.)
+  
+</p>
+</details>
+
+
+<details><summary>Ninesky</summary>
+<p>
+  
+  #### Ninesky
+  
+  #### (has advertisements, highly recommend switching browsers)
+  Copy the code, then go to any website. Tap the menu button in the middle at the bottom, then tap "Add bookmark". Change the name to what you want (Highly recommended). Then, change the URL to the code. Click "finish" at the top right. To use this bookmarklet, type in the URL bar the name of the bookmarklet, then tap the bookmarklet in the dropdown list.
+  
+</p>
+</details>
+
+
+<details><summary>FlashFox</summary>
+<p>
+  
+  #### FlashFox
+  
+  Copy the code, then go to any website. Tap the menu (⋮), then tap the star icon. If you're quick enough, tap the "options" on the popup that appears on the bottom of the screen. Otherwise, tap the URL bar, then go to the "Bookmarks" tab. Long press on the bookmark you just added, tap "edit", then change the Location to the bookmarklet code, and the name to something you'll remember, then click 'OK'. When you're on a page you want to Dissent, simply tap the URL bar, tap "Bookmarks" tab, then tap the bookmarklet. Alternatively, you can just type the bookmarklet name in the URL bar, then tap the bookmarklet from the dropdown list.
+  
+</p>
+</details>
+
+
+<details><summary>Qwant</summary>
+<p>
+  
+  #### Qwant
+  
+  Copy the code, then go to any website. Tap the menu (⋮), then tap the star icon. If you're quick enough, tap the "options" on the popup that appears on the bottom of the screen. Otherwise, tap the URL bar, then go to the "Bookmarks" tab. Long press on the bookmark you just added, tap "edit", then change the Location to the bookmarklet code, and the name to something you'll remember, then click 'OK'. When you're on a page you want to Dissent, simply tap the URL bar, tap "Bookmarks" tab, then tap the bookmarklet. Alternatively, you can just type the bookmarklet name in the URL bar, then tap the bookmarklet from the dropdown list.
+  
+</p>
+</details>
+
+
+<details><summary>Via browser</summary>
+<p>
+  
+  #### Via Browser
+  
+  Copy the code, then go to any website. Tap the menu (3 horizontal bars at bottom right), then tap "Add Bookmark". Change the URL to the Bookmarklet code, and the name to something you'll remember. Click OK. To use the bookmarklet, type the bookmarklet name in the URL bar, then tap the bookmarklet from the dropdown list.
+  
+</p>
+</details>
+
+
+
+<details><summary>UC Browser</summary>
+<p>
+
+### No.
+
+I tried using UC browser on my 300 dollar phone, and it lagged it because it is bloatware and has tons of adware (and likely malware). I uninstalled it immediately. It's so bad, it was even removed from Google play in November of 2017 for 30 days for sending sensitive user data to China, as well as showing misleading and malicious ads to its users. UC browser is made by UCWeb. The chairman of UCWeb is Lei Jun. The CEO of Xiaomi, chairman of Kingsoft and YY.com is also Lei Jun. Kingsoft owns Cheetah Mobile, who makes Clean Master. Clean Master is also bloatware and has excessive advertisements, and Xiamoi literally has built in bloatware and adware. 
+The same person is behind Xiaomi, UC browser and clean master. I very highly suggest you change browsers.
+  
+</p>
+</details>
+
+<details><summary>Unsupported Browsers</summary>
+<p>
+
+#### Unsupported browsers
+
+PHX browser, DuckDuckGo, Puffin, Cm browser, Maxthon, 'Firefox Focus', Cake browser, 'Opera Touch', Dolphin Zero, Rocket browser, Aloha Browser, Inbrowser,
+
+</p>
+</details>
+
+
+
+---
+
 ## The Bookmarklet Code
 
 <details><summary>Open dissenter in the same window</summary>
