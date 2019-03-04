@@ -1,7 +1,7 @@
 # Dissenter-Bookmarklet-Instructions
 A simple bookmarklet for Dissenter.com that allows you to comment on any web page on the internet.
 
-To use this bookmarklet, select your browser and follow the instructions.
+To add this bookmarklet, select your browser and follow the instructions. After added, click the bookmarklet to use it.
 
 <details><summary>Google Chrome</summary>
 <p>
