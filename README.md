@@ -86,7 +86,7 @@ Microsoft Edge, Waterfox, Konqueror, and qute browser.
 
 ---
 
-## The code
+## The Bookmarklet Code
 
 <details><summary>Open dissenter in the same window</summary>
 <p>
