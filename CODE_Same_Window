@@ -1,4 +1,4 @@
 javascript:(function(){window.location=('https://dissenter.com/discussion/begin?url='+location+'')})(); 
 
 
-#This opens it in the same window, rather than making a new tab
+#This opens Dissenter in the same window, rather than making a new tab
