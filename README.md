@@ -1,6 +1,6 @@
 # Dissenter Bookmarklet
 
-A simple bookmarklet for Dissenter.com that allows you to comment on any web page on the internet.
+A simple bookmarklet for Dissenter.com that allows you to comment on any web page on the internet. This README documents instructions on how to use it on Desktop and Android.
 
 ## Desktop Instructions
 
