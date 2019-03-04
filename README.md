@@ -75,7 +75,7 @@ Make sure the bookmarks bar is enabled, then right click the bookmarks bar > New
   
 #### Brave Browser
   
-Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and right click the bookmarks bar, then click "paste". If you want to change the name of the bookmark, right click it and click edit.
+Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and right click the bookmarks bar and click "paste". If you want to change the name of the bookmark, right click it and click edit.
 </p>
 </details>
   
@@ -85,7 +85,16 @@ Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and 
   
 #### Yandex (Russian bots smh)
   
-Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and right click the bookmarks bar, then click "paste". If you want to change the name of the bookmark, right click it and click edit.
+Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and right click the bookmarks bar and click "paste". If you want to change the name of the bookmark, right click it and click edit.
+</p>
+</details>
+
+<details><summary>Avant Browser</summary>
+<p>
+
+#### Avant Browser
+Make sure the bookmarks bar is enabled. This can be done by right clicking on the top of the window, and selecting "Bookmarks Bar". Next, click the star to the left of the URL bar, then click "New Bookmark", then change the name if you want to. Right click the bookmark you just made, click edit, then copy and paste the code into the URL field and click OK. 
+
 </p>
 </details>
 
@@ -321,7 +330,9 @@ PHX browser, DuckDuckGo, Puffin, Cm browser, Maxthon, 'Firefox Focus', Cake brow
 <p>
  
  #### This opens dissenter inside the webpage, mimicing a real comments section on a real site. Not recommended for Android. Credits to @Mumberthrax on Gab for this script. Click the bookmarklet to toggle it on/off
- 
+
+#### Warning: This code does not work on some browsers that are listed above. If this code does not work, try a different code or browser.
+
  ```javascript
  javascript:(function(){var frame=document.getElementById("ifrm");if(frame!==null){frame.parentNode.removeChild(frame)}else{var iframe=document.createElement('iframe');iframe.src='https://dissenter.com/discussion/begin?url='+encodeURIComponent(location.href);iframe.style.width="25%";iframe.style.height=window.innerHeight+'px';iframe.style.top="0";iframe.style.right="0";iframe.style.position="fixed";iframe.style.zIndex="9999";iframe.setAttribute('id','ifrm');document.body.appendChild(iframe)}})();
  ```
