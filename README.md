@@ -9,14 +9,26 @@ To add this bookmarklet, select your browser and follow the instructions. After 
 <details><summary>Google Chrome</summary>
 <p>
   
-#### Google Chrome and Firefox
+#### Google Chrome
   
 Select the code and drag it into your bookmarks bar. Make sure the bookmarks bar is visible on your browser. If you want, you can change the name of the Bookmarklet.
+
+Alternatively, you can copy the code to your clipboard, right click the bookmarks bar, and click "Paste".
 
 If you are using Google Chrome on linux, you may have to follow the Opera instructions (except the 'heart' is instead a star)
 </p>
 </details>
 
+<details><summary>Firefox</summary>
+<p>
+  
+  #### Firefox
+Select the code and drag it into your bookmarks bar. Make sure the bookmarks bar is visible on your browser. If you want, you can change the name of the Bookmarklet.
+
+Alternatively, you can copy the code to your clipboard, right click the bookmarks bar, and click "Paste".
+
+</p>
+</details>
 
 <details><summary>Opera</summary>
 <p>
