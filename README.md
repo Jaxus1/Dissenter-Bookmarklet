@@ -1,4 +1,4 @@
-# Dissenter-Bookmarklet
+# Dissenter-Bookmarklet-Instructions
 A simple bookmarklet for Dissenter.com that allows you to comment on any web page on the internet.
 
 To use this bookmarklet, simply follow instructions for your browser: 
