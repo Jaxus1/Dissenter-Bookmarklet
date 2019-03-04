@@ -77,7 +77,7 @@ Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and 
 <details><summary>Unsupported Browsers</summary>
 <p>
   
-#### Unsupported Browsers
+#### Browsers that dont support bookmarklets
 
 Microsoft Edge, Waterfox, Konqueror, and qute browser.
 
