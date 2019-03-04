@@ -98,6 +98,16 @@ Make sure the bookmarks bar is enabled. This can be done by right clicking on th
 </p>
 </details>
 
+<details><summary>Maxthon Browser</summary>
+<p>
+
+#### Maxthon Browser
+Make sure the favorites bar is enabled. This can be done by right clicking on the top of the window, and selecting "Favorites Bar". Go to any webpage, then right click the favorites bar, click "Add to here", then paste the code in "URL" and change the title if you want to.
+
+</p>
+</details>
+
+
 <details><summary>Browsers that do not work</summary>
 <p>
   
