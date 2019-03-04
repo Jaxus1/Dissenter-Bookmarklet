@@ -74,10 +74,10 @@ Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and 
 </p>
 </details>
 
-<details><summary>Browsers that wont work with bookmarklets</summary>
+<details><summary>Browsers that do not work with this</summary>
 <p>
   
-#### Browsers that wont work with bookmarklets
+#### Browsers that wont work with this because they don't support bookmarklets. Keep in mind there might be a workaround, but it would require digging into complicated instructions.
 
 Microsoft Edge, Waterfox, Konqueror, and qute browser.
 
