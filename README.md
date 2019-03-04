@@ -126,7 +126,7 @@ Microsoft Edge, Waterfox, Konqueror, and qute browser.
 
 ---
 
-After you add it to your bookmarks bar, make sure you're logged in on https://dissenter.com or you won't be able to comment or rate the posts, however you'll still be able to see the comments, due to a new update to Dissenter. To use a bookmarklet, you must click the bookmark. Thats how bookmarks work.
+After you add it to your bookmarks bar, make sure you're logged in on https://dissenter.com or you won't be able to comment or rate the posts. To use a bookmarklet, you must click the bookmark.
 
 Currently fixing instructions for Mozilla Firefox. At the moment, they are under "Google Chrome"
 
