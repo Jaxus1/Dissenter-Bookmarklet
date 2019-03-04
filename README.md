@@ -74,9 +74,7 @@ Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and 
 </p>
 </details>
 
-
- — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
-
+---
 
 After you add it to your bookmarks bar, make sure you're logged in on https://dissenter.com or you won't be able to comment or rate the posts, however you'll still be able to see the comments, due to a new update to Dissenter. To use a bookmarklet, you must click the bookmark. Thats how bookmarks work.
 
