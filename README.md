@@ -74,7 +74,7 @@ Make sure the bookmarks bar is enabled (Ctrl+Shift+B), then, copy the code, and 
 </p>
 </details>
 
-<details><summary>Browsers that do not work/summary>
+<details><summary>Browsers that do not work</summary>
 <p>
   
 #### Browsers that wont work with this because they don't support bookmarklets. Keep in mind there might be a workaround, but it would require digging into complicated instructions.
