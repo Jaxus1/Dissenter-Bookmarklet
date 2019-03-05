@@ -2,6 +2,56 @@
 
 A simple bookmarklet for Dissenter.com that allows you to comment on any web page on the internet. This README documents instructions on how to use it on Desktop and Android.
 
+#### Table of contents
+* [Desktop Instructions](#desktop-instructions)
+* [Android Instructions](#android-instructions)
+* [The Code](#the-bookmarklet-code)
+
+---
+
+## The Bookmarklet Code
+##### (This is the code you copy during the instructions)
+
+<details><summary>Open dissenter in the same window</summary>
+<p>
+  
+ #### This opens dissenter in the same window. Reccommended for Android.
+ 
+ ```Javascript
+ javascript:(function(){window.location=('https://dissenter.com/discussion/begin?url='+location+'')})(); 
+ ```
+ 
+ </p>
+</details>
+
+<details><summary>Open dissenter in a new tab</summary>
+<p>
+  
+  #### This opens dissenter in a new tab. Works on android, but could be inconvenient based on your browser.
+  
+ ```javascript
+  javascript:(function(){window.open('https://dissenter.com/discussion/begin?url='+location+'')})();
+ ```
+ 
+ </p>
+</details>
+
+<details><summary>Open dissenter inside the webpage</summary>
+<p>
+ 
+ #### This opens dissenter inside the webpage, mimicing a real comments section on a real site. Not recommended for Android. Credits to @Mumberthrax on Gab for this script. Click the bookmarklet to toggle it on/off
+
+#### Warning: This code does not work on some browsers that are listed above. If this code does not work, try a different code or browser.
+
+ ```javascript
+ javascript:(function(){var frame=document.getElementById("ifrm");if(frame!==null){frame.parentNode.removeChild(frame)}else{var iframe=document.createElement('iframe');iframe.src='https://dissenter.com/discussion/begin?url='+encodeURIComponent(location.href);iframe.style.width="25%";iframe.style.height=window.innerHeight+'px';iframe.style.top="0";iframe.style.right="0";iframe.style.position="fixed";iframe.style.zIndex="9999";iframe.setAttribute('id','ifrm');document.body.appendChild(iframe)}})();
+ ```
+ 
+ </p>
+</details>
+
+---
+
 ## Desktop Instructions
 
 To add this bookmarklet, select your browser and follow the instructions. After added, click the bookmarklet to use it.
@@ -337,50 +387,6 @@ The same person is behind Xiaomi, UC browser and clean master. I very highly sug
 PHX browser, DuckDuckGo, Puffin, Cm browser, Maxthon, 'Firefox Focus', Cake browser, 'Opera Touch', Dolphin Zero, Rocket browser, Aloha Browser, Inbrowser,
 
 </p>
-</details>
-
-
-
----
-
-## The Bookmarklet Code
-
-<details><summary>Open dissenter in the same window</summary>
-<p>
-  
- #### This opens dissenter in the same window. Reccommended for Android.
- 
- ```Javascript
- javascript:(function(){window.location=('https://dissenter.com/discussion/begin?url='+location+'')})(); 
- ```
- 
- </p>
-</details>
-
-<details><summary>Open dissenter in a new tab</summary>
-<p>
-  
-  #### This opens dissenter in a new tab. Works on android, but could be inconvenient based on your browser.
-  
- ```javascript
-  javascript:(function(){window.open('https://dissenter.com/discussion/begin?url='+location+'')})();
- ```
- 
- </p>
-</details>
-
-<details><summary>Open dissenter inside the webpage</summary>
-<p>
- 
- #### This opens dissenter inside the webpage, mimicing a real comments section on a real site. Not recommended for Android. Credits to @Mumberthrax on Gab for this script. Click the bookmarklet to toggle it on/off
-
-#### Warning: This code does not work on some browsers that are listed above. If this code does not work, try a different code or browser.
-
- ```javascript
- javascript:(function(){var frame=document.getElementById("ifrm");if(frame!==null){frame.parentNode.removeChild(frame)}else{var iframe=document.createElement('iframe');iframe.src='https://dissenter.com/discussion/begin?url='+encodeURIComponent(location.href);iframe.style.width="25%";iframe.style.height=window.innerHeight+'px';iframe.style.top="0";iframe.style.right="0";iframe.style.position="fixed";iframe.style.zIndex="9999";iframe.setAttribute('id','ifrm');document.body.appendChild(iframe)}})();
- ```
- 
- </p>
 </details>
 
 ---
