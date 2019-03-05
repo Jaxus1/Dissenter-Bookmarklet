@@ -205,7 +205,7 @@ Microsoft Edge, Waterfox, Konqueror, Otter Browser, GNU Icecat, Dooble, Tor Brow
 
 ## Android Instructions
 
-#### Instructions on how to add Dissenter to Android.
+#### Instructions on how to add and use the Dissenter bookmarklet on Android.
 
 #### (Warning: some of the URLs are showed different on some browsers, and as such, some URLs will load on dissenter to the wrong page. Some notable examples are: google.com, news.google.com, m.facebook, etc.)
 
