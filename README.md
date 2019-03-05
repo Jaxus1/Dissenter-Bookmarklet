@@ -362,6 +362,8 @@ PHX browser, DuckDuckGo, Puffin, Cm browser, Maxthon, 'Firefox Focus', Cake brow
 
 After you add it to your bookmarks bar, make sure you're logged in on https://dissenter.com or you won't be able to comment or rate the posts. To use a bookmarklet, you must click the bookmark.
 
-Currently fixing instructions for Mozilla Firefox. At the moment, they are under "Google Chrome"
+I've been working tirelessly to try to get as many browsers as I can. I understand that people come from all walks of life, and might not be using chrome, firefox, or opera. I have several desktop browsers I will be testing very soon. These browsers are Otter browser, SRW Iron, Dooble, Basilisk, Côc Côc (Vietnamese browser), Comodo Dragon, Comodo Ice Dragon, Slimjet, Icecat, 360 secure, Torch, Epic Privacy Browser, Avast Secure Browser, Blisk browser, Colibri.
 
-More browsers to be added in future updates. Stay tuned.
+There are also other web browsers that I may consider as well, including  Xvast, Polarity, TheWorld Chrome, Naver Whale, Kinza, Iridium, Tungsten, Ghost Browser, Superbird, Lulumi, Chedot, Orbitum, Cent Browser.
+
+After I'm done adding those browsers, I'll move back to Android browsers. At least, ones with a branded name. Browsers like "Browser", "Browser", "Browser with adblock", "Browser that is the best", etc. wont be included, as i can't assure that you'll get the correct instructions.
