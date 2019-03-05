@@ -133,6 +133,14 @@ Make sure the bookmarks bar is enabled. Copy the code, right click the bookmarks
 </p>
 </details>
 
+<details><summary>SRW Iron</summary>
+<p>
+  
+  #### SRW Iron
+Make sure the bookmarks bar is enabled. Copy the code, right click the bookmarks bar, and click "Paste". Right click the bookmark, and click edit if you'd like to change the name.
+</p>
+</details>
+
 <details><summary>Browsers that do not work</summary>
 <p>
   
@@ -379,7 +387,7 @@ PHX browser, DuckDuckGo, Puffin, Cm browser, Maxthon, 'Firefox Focus', Cake brow
 
 After you add it to your bookmarks bar, make sure you're logged in on https://dissenter.com or you won't be able to comment or rate the posts. To use a bookmarklet, you must click the bookmark.
 
-I've been working tirelessly to try to get as many browsers as I can. I understand that people come from all walks of life, and might not be using chrome, firefox, or opera. I have several desktop browsers I will be testing very soon. These browsers are SRW Iron, Dooble, Côc Côc (Vietnamese browser), Comodo Dragon, Comodo Ice Dragon, 360 secure, Torch, Epic Privacy Browser, Avast Secure Browser, Blisk browser, Colibri.
+I've been working tirelessly to try to get as many browsers as I can. I understand that people come from all walks of life, and might not be using chrome, firefox, or opera. I have several desktop browsers I will be testing very soon. These browsers are Dooble, Côc Côc (Vietnamese browser), Comodo Dragon, Comodo Ice Dragon, 360 secure, Torch, Epic Privacy Browser, Avast Secure Browser, Blisk browser, Colibri.
 
 There are also other web browsers that I may consider as well, including  Xvast, Polarity, TheWorld Chrome, Naver Whale, Kinza, Iridium, Tungsten, Ghost Browser, Superbird, Lulumi, Chedot, Orbitum, Cent Browser.
 
